@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Arpit Patel</h1>
 
 <h3 align="center">
-  💻 Software Engineering Student | Java Developer | DSA Learner
+  💻 Software Engineer | Backend Developer | AI Engineer | Blockchain Developer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
